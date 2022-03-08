@@ -1435,10 +1435,10 @@ class PRLuckyBlockRaceServerSystem(ServerSystem):
                         }
                     itemcomp = serverApi.GetEngineCompFactory().CreateItem(serverApi.GetLevelId())
                     itemcomp.SpawnItemToLevel(itemDict, dimension, (x,y,z))
-
-
-
-
+            if randomcomp == 69:#生成幸运剑
+                pass
+            if randomcomp == 70:#生成幸运弓
+                pass
 
     def Destroy(self):
         self.UnListenEvent()
