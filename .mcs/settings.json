@@ -1,0 +1,18 @@
+{
+    "Arena.Component.Loot.Version": [
+        0,
+        0,
+        1
+    ],
+    "Arena.Component.Namespace": "pr",
+    "Arena.Component.SimpleBlock.Version": [
+        0,
+        0,
+        1
+    ],
+    "Arena.Component.SimpleRecipe.Version": [
+        0,
+        0,
+        1
+    ]
+}

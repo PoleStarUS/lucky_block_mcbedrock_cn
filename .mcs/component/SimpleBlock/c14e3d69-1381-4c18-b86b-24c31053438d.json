@@ -1,0 +1,85 @@
+{
+    "simpleBlockClip": {
+        "max": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "min": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "simpleBlockCollision": {
+        "max": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "min": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "simpleBlockCreateModeVisible": true,
+    "simpleBlockDig": {
+        "destroySpecial": false,
+        "destroyTime": 0.3,
+        "digger": "pickaxe",
+        "diggerLevel": 0,
+        "loot": "empty"
+    },
+    "simpleBlockER": 1.0,
+    "simpleBlockEntity": {
+        "movable": false,
+        "simpleBlockEntityFlag": false,
+        "tick": false
+    },
+    "simpleBlockLabel": "幸运方块",
+    "simpleBlockMobType": "minecraft:chicken",
+    "simpleBlockName": "race_lucky_block",
+    "simpleBlockNavi": true,
+    "simpleBlockPortalDynamic": "portal",
+    "simpleBlockPortalEW": "minecraft:portal_east_west",
+    "simpleBlockPortalNS": "minecraft:portal_north_south",
+    "simpleBlockPortalTargetDimension": 3,
+    "simpleBlockRender": {
+        "lightAbsorption": 16,
+        "lightEmission": 0.0,
+        "mapColor": [
+            255,
+            255,
+            0
+        ],
+        "renderLayer": "opaque"
+    },
+    "simpleBlockShape": {
+        "faceDirectional": "direction"
+    },
+    "simpleBlockSolid": true,
+    "simpleBlockSound": "stone",
+    "simpleBlockTex": {
+        "simpleBlockBenchModel": "",
+        "simpleBlockTexB": "textures/blocks/pr_lucky_block",
+        "simpleBlockTexE": "",
+        "simpleBlockTexIsotropic": {
+            "down": false,
+            "east": false,
+            "north": false,
+            "south": false,
+            "up": false,
+            "west": false
+        },
+        "simpleBlockTexL": true,
+        "simpleBlockTexN": "",
+        "simpleBlockTexS": "",
+        "simpleBlockTexSide": "textures/blocks/pr_lucky_block",
+        "simpleBlockTexT": "textures/blocks/pr_lucky_block",
+        "simpleBlockTexW": "",
+        "simpleBlockTextureType": 1
+    },
+    "simpleBlockType": 1,
+    "uuid": "c14e3d69-1381-4c18-b86b-24c31053438d"
+}

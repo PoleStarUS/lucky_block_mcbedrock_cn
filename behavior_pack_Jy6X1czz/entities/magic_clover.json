@@ -1,0 +1,69 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:entity": {
+        "components": {
+            "minecraft:attack": {
+                "damage": 0.0
+            },
+            "minecraft:behavior.look_at_player": {
+                "look_distance": 8,
+                "priority": 6
+            },
+            "minecraft:behavior.nearest_attackable_target": {
+                "attack_interval": 5,
+                "entity_types": [
+                    {
+                        "filters": {
+                            "any_of": [
+
+                            ]
+                        },
+                        "max_dist": 8
+                    }
+                ],
+                "must_see": true,
+                "priority": 0,
+                "reselect_targets": true
+            },
+            "minecraft:behavior.random_stroll": {
+                "priority": 8,
+                "speed_multiplier": 0.8
+            },
+            "minecraft:collision_box": {
+                "height": 1,
+                "width": 1
+            },
+            "minecraft:health": {
+                "max": 0.0,
+                "value": 0.0
+            },
+            "minecraft:loot": {
+                "table": "loot_tables/netease/minecraft_item.json"
+            },
+            "minecraft:movement": {
+                "value": 0.25
+            },
+            "minecraft:nameable": {
+
+            },
+            "minecraft:physics": {
+
+            },
+            "minecraft:scale": {
+                "value": 1
+            },
+            "minecraft:storyline": {
+                "name": ""
+            },
+            "minecraft:underwater_movement": {
+                "value": 0.25
+            }
+        },
+        "description": {
+            "identifier": "pureraincube:magic_clover",
+            "is_experimental": false,
+            "is_spawnable": false,
+            "is_summonable": true
+        }
+    }
+}

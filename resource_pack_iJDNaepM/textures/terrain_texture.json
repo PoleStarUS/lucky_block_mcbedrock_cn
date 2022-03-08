@@ -1,0 +1,15 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "pr:race_lucky_block_down": {
+            "textures": "textures/blocks/pr_lucky_block"
+        },
+        "pr:race_lucky_block_side": {
+            "textures": "textures/blocks/pr_lucky_block"
+        },
+        "pr:race_lucky_block_up": {
+            "textures": "textures/blocks/pr_lucky_block"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

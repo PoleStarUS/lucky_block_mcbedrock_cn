@@ -1,0 +1,72 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+            "minecraft:block_light_absorption": {
+                "value": 16
+            },
+            "minecraft:block_light_emission": {
+                "emission": 0.0
+            },
+            "minecraft:destroy_time": {
+                "value": 0.3
+            },
+            "minecraft:explosion_resistance": {
+                "value": 1.0
+            },
+            "minecraft:loot": {
+                "table": "loot_tables/netease/empty.json"
+            },
+            "minecraft:map_color": {
+                "color": "#ffff00"
+            },
+            "netease:aabb": {
+                "clip": {
+                    "max": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "min": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "collision": {
+                    "max": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "min": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                }
+            },
+            "netease:face_directional": {
+                "type": "direction"
+            },
+            "netease:pathable": {
+                "value": false
+            },
+            "netease:render_layer": {
+                "value": "opaque"
+            },
+            "netease:solid": {
+                "value": true
+            },
+            "netease:tier": {
+                "destroy_special": false,
+                "digger": "pickaxe",
+                "level": 0
+            }
+        },
+        "description": {
+            "identifier": "pr:race_lucky_block",
+            "register_to_creative_menu": true
+        }
+    }
+}

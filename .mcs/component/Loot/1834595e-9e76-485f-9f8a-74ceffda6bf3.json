@@ -1,0 +1,21 @@
+{
+    "lastLootName": "loot1",
+    "lootName": "empty",
+    "pools": [
+        {
+            "entries": [
+                {
+                    "itemName": [
+                        "minecraft:air",
+                        0
+                    ],
+                    "maxCount": 1,
+                    "minCount": 1,
+                    "weight": 1
+                }
+            ],
+            "rolls": 1
+        }
+    ],
+    "uuid": "1834595e-9e76-485f-9f8a-74ceffda6bf3"
+}

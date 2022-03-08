@@ -1,0 +1,45 @@
+{
+  "Source": "空白附加包",
+  "CreateVersion": "2.0.0.155182",
+  "EditVersion": "2.0.0.155182",
+  "OldEditCount": 4,
+  "NewEditCount": 0,
+  "OldComponents": [
+    "Loot",
+    "SimpleBlock"
+  ],
+  "Account": "q284871164@163.com",
+  "UserName": "jixingus",
+  "UserId": "2416",
+  "Id": "5534aa8adaa3474d9803f73fec41d395",
+  "EditType": 2,
+  "IsMap": false,
+  "CreateNew": true,
+  "EditName": "lucky_block_race",
+  "GameType": 1,
+  "WorldType": 2,
+  "Seed": "",
+  "BlockNums": [
+    0,
+    0
+  ],
+  "BornPoint": [
+    0,
+    0,
+    0
+  ],
+  "SaveBackMapPath": null,
+  "SaveBackAddOnPath": "C:\\MCStudioDownload\\work\\q284871164@163.com\\Cpp\\AddOn\\5534aa8adaa3474d9803f73fec41d395",
+  "EditAddOnPaths": [],
+  "EditMaterialPaths": [],
+  "EditLogFilePath": "C:\\MCStudioDownload\\work\\editor\\edit.log",
+  "ServerName": "EXPR",
+  "StudioPort": 12757,
+  "DCWebUrl": "https://x19qadcweb.nie.netease.com",
+  "ShowGuide": false,
+  "AssertCacheDir": "C:\\MCStudioDownload\\EngineAssert",
+  "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
+  "ShowGpuDriverTips": false,
+  "StudioTempPath": "C:\\MCStudioDownload\\temp\\editorTemp",
+  "EditorResourcePackPath": "C:\\Apps\\MCStudio\\data\\inner_res"
+}

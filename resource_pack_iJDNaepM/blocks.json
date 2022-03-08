@@ -1,0 +1,15 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "pr:race_lucky_block": {
+        "sound": "stone",
+        "textures": {
+            "down": "pr:race_lucky_block_down",
+            "side": "pr:race_lucky_block_side",
+            "up": "pr:race_lucky_block_up"
+        }
+    }
+}
