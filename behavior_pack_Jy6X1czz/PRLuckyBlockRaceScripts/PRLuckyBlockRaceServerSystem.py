@@ -1346,7 +1346,7 @@ class PRLuckyBlockRaceServerSystem(ServerSystem):
                     cmdcomp.SetCommand("/structure load chest:chest_43 "+ str(x) + " " + str(y) + " " + str(z),i)
                 if randomcomp2 == 44:
                     cmdcomp.SetCommand("/structure load chest:chest_44 "+ str(x) + " " + str(y) + " " + str(z),i)
-            if randomcomp == 62:#生成大量矿 + 生成烟火
+            if randomcomp == 62:#生成大量矿 + 生成烟火 pas
                 cmdcomp.SetCommand("/summon minecraft:fireworks_rocket " + str(x) + " " + str(y) + " " + str(z))
                 cmdcomp.SetCommand("/summon minecraft:fireworks_rocket " + str(x) + " " + str(y) + " " + str(z))
                 cmdcomp.SetCommand("/summon minecraft:fireworks_rocket " + str(x) + " " + str(y) + " " + str(z))
